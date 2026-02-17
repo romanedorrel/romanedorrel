@@ -46,5 +46,5 @@ Git | GitHub | VS Code | WordPress
 
 ## 📫 Connect
 
-LinkedIn: [(add your link here)](https://www.linkedin.com/in/romane-dorrel-842b55128/)
+LinkedIn:(https://www.linkedin.com/in/romane-dorrel-842b55128/)
 
