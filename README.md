@@ -1,6 +1,6 @@
 # Romane Dorrel
 
-Web application engineer focused on building structured, scalable systems with clean architecture and maintainable code.
+Full-stack web engineer building structured, scalable systems with clean architecture and maintainable code.
 
 ---
 
