@@ -13,6 +13,7 @@ BestSelf is a Next.js web application that dynamically generates structured work
 The system demonstrates modular component design, parameter-based filtering logic, secure authentication, and production deployment using cloud-based infrastructure.
 
 🌐 Live Application: https://bestself-fitness-generator.vercel.app
+
 🔗 Repository: https://github.com/romanedorrel/bestself-fitness-generator
 
 ---
