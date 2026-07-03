@@ -58,6 +58,20 @@ Working across both the frontend and backend, I help design, build, and refine f
 - Debug, test, and improve application performance and reliability
 - Help build software engineered to support hundreds of active users
 
+## Amortechs
+
+### Web Developer (Contract)
+
+Develop and maintain production web applications, delivering scalable, maintainable solutions for client projects while collaborating across the full development lifecycle.
+
+### Responsibilities
+
+- Develop responsive web applications and reusable UI components
+- Implement custom application features using modern JavaScript technologies
+- Troubleshoot production issues and deliver reliable feature enhancements
+- Collaborate with stakeholders to translate business requirements into technical solutions
+- Maintain clean, scalable, and maintainable codebases using modern development practices
+
 ---
 
 # 🛠 Tech Stack
