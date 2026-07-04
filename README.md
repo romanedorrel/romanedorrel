@@ -1,127 +1,89 @@
 # Hi, I'm Romane 👋
 
-I'm a Full-Stack Software Engineer who enjoys building scalable software that solves real-world problems through thoughtful architecture, modern web technologies, and AI.
+I'm a **Full-Stack Software Engineer** building scalable web applications with React, TypeScript, Node.js, PostgreSQL, and AI.
 
-I'm currently building **SageStep**, an AI-powered planning platform that transforms long-term goals into structured daily action plans. Built around the philosophy of **Quiet Progress**, SageStep helps users reduce decision fatigue by focusing on the next meaningful step.
-
-I'm also a **Developer on LetSocial**, where I work as part of the engineering team building a modern social media platform designed to scale to hundreds of users.
+I enjoy building software that solves real-world problems through thoughtful architecture, modern web technologies, and user-focused design.
 
 ---
 
-# 🌿 SageStep
+# 💼 Experience
 
-### AI-Powered Planning for Quiet Progress
+## 🌿 SageStep
 
-🌐 **Live Demo:** https://sagestep.app
+**Full-Stack Software Engineer**
 
-SageStep combines AI-assisted planning with a calm, intuitive user experience to help users move from planning to execution.
+Lead the development of **SageStep**, an AI-powered planning platform that helps users transform long-term goals into structured daily action plans. I architect, develop, deploy, and continuously improve the platform while building features across the entire application stack.
 
-### Features
+**Highlights**
 
-- 🤖 AI-generated task planning
-- 🎯 Goal management
-- ✅ Task management
-- 📅 Weekly scheduling and calendar views
-- 🔒 Secure authentication
-- 📱 Responsive design
-- 🌿 Quiet Progress design philosophy
+* Reduced manual goal planning from approximately **30–60 minutes to under five minutes** through AI-assisted task generation.
+* Designed and developed the full application architecture across frontend, backend, database, and AI services.
+* Built secure authentication, scheduling workflows, calendar management, and responsive user experiences.
+* Deploy and maintain production infrastructure while continuously shipping new features and improvements.
 
-### Tech Stack
-
-- React
-- TypeScript
-- Express
-- PostgreSQL (Supabase)
-- OpenAI API
-- Vercel
-- Render
+**Tech:** React • TypeScript • Express • PostgreSQL (Supabase) • OpenAI API • Vercel • Render
 
 ---
 
-# 🚀 Current Engineering Work
+## 🚀 LetSocial
 
-## LetSocial
+**Full-Stack Software Engineer**
 
-### Software Developer
+Contribute to the development of a modern social media platform by building full-stack features, REST APIs, and reusable components while collaborating through Agile sprint planning, Git workflows, and peer code reviews.
 
-I'm part of the engineering team building **LetSocial**, a full-stack social media platform focused on creating a scalable, modern user experience.
+**Tech:** React • TypeScript • Express • PostgreSQL
 
-Working across both the frontend and backend, I help design, build, and refine features throughout the application lifecycle—from planning and implementation to testing and deployment.
+---
 
-### Responsibilities
+## 💼 Amortechs
 
-- Develop full-stack features using React, TypeScript, Express, and PostgreSQL
-- Design scalable, reusable application components
-- Build and integrate REST APIs and database-driven functionality
-- Participate in architectural discussions, sprint planning, and feature design
-- Collaborate through Git workflows, pull requests, and peer code reviews
-- Debug, test, and improve application performance and reliability
-- Help build software engineered to support hundreds of active users
+**Contract Web Developer**
 
-## Amortechs
+Develop and maintain production web applications and custom client solutions, translating business requirements into scalable, maintainable software.
 
-### Web Developer (Contract)
+---
 
-Develop and maintain production web applications, delivering scalable, maintainable solutions for client projects while collaborating across the full development lifecycle.
+# 🧪 Engineering Projects
 
-### Responsibilities
+## 💪 BestSelf
 
-- Develop responsive web applications and reusable UI components
-- Implement custom application features using modern JavaScript technologies
-- Troubleshoot production issues and deliver reliable feature enhancements
-- Collaborate with stakeholders to translate business requirements into technical solutions
-- Maintain clean, scalable, and maintainable codebases using modern development practices
+A full-stack fitness and nutrition platform demonstrating secure authentication, RESTful APIs, relational database design, and personalized user experiences.
+
+**Tech:** React • Node.js • Express • PostgreSQL
+
+---
+
+## 🧩 JSON Parser
+
+A recursive descent JSON parser built entirely from scratch without relying on `JSON.parse()`, demonstrating parsing algorithms, recursive descent techniques, lexical analysis, and language implementation fundamentals.
 
 ---
 
 # 🛠 Tech Stack
 
-### Frontend
-- React
-- TypeScript
-- Next.js
-- Vite
-- HTML
-- CSS
+**Frontend**
 
-### Backend
-- Node.js
-- Express
-- REST APIs
-- Authentication
-- OpenAI API Integration
+React • TypeScript • Next.js • Vite • HTML • CSS
 
-### Databases
-- PostgreSQL (Supabase)
-- MongoDB
+**Backend**
 
-### Testing
-- Playwright
+Node.js • Express • REST APIs • OpenAI API
 
-### Cloud & DevOps
-- Docker
-- Vercel
-- Render
-- GitHub Actions
+**Databases**
 
-### Developer Tools
-- Git
-- GitHub
-- Postman
-- VS Code
+PostgreSQL (Supabase) • MongoDB
 
----
+**Testing**
 
-# 🚀 Featured Projects
+Playwright
 
-### 🌿 SageStep
-AI-powered planning platform that helps users turn long-term goals into clear, actionable daily progress.
+**Cloud & DevOps**
 
-### 💪 BestSelf
-Full-stack fitness and meal planning platform featuring secure authentication, personalized recommendations, and RESTful APIs.
+Docker • Vercel • Render • GitHub Actions
 
-### 🧩 Custom JSON Parser
-Standards-compliant recursive descent JSON parser built from scratch without relying on `JSON.parse()`.
+**Developer Tools**
+
+Git • GitHub • Postman • VS Code
 
 ---
 
@@ -130,3 +92,4 @@ Standards-compliant recursive descent JSON parser built from scratch without rel
 🌐 **SageStep:** https://sagestep.app
 
 💼 **LinkedIn:** https://linkedin.com/in/romane-dorrel
+
