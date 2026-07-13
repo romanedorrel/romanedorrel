@@ -17,9 +17,9 @@ Develop software solutions for SageStep, an intelligent planning platform, by de
 **Highlights**
 
 * Reduced manual goal planning from approximately **30–60 minutes to under five minutes** through AI-assisted task generation.
-* Designed and developed the full application architecture across frontend, backend, database, and AI services.
-* Built secure authentication, scheduling workflows, calendar management, and responsive user experiences.
-* Deploy and maintain production infrastructure while continuously shipping new features and improvements.
+* Design and develop full-stack features spanning React, Express, PostgreSQL, authentication, cloud infrastructure, and AI integrations.
+* Build intelligent planning, scheduling, and calendar functionality that transforms user goals into structured execution plans.
+* Iterate on features through testing, version control, and continuous refinement to deliver a stable, production-ready application.
 
 **Tech:** React • TypeScript • Express • PostgreSQL (Supabase) • OpenAI API • Vercel • Render
 
@@ -31,15 +31,14 @@ Develop software solutions for SageStep, an intelligent planning platform, by de
 
 Develop app features for LetSocial, a modern social platform, creating scalable user experiences, backend services, REST APIs, and reusable components while working within an Agile development team.
 
+**Highlights**
+
+* Develop and enhance full-stack features using React, TypeScript, Express, and PostgreSQL.
+* Build reusable frontend components, backend services, and REST APIs that support a scalable application architecture.
+* Collaborate through Git workflows, pull requests, sprint planning, peer code reviews, and iterative feature development.
+* Deliver production-ready functionality while maintaining code quality, consistency, and engineering best practices.
+
 **Tech:** React • TypeScript • Express • PostgreSQL
-
----
-
-## 💼 Amortechs
-
-**Contract Web Developer**
-
-Develop and maintain production web applications and custom client solutions, translating business requirements into scalable, maintainable software.
 
 ---
 
