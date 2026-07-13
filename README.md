@@ -12,7 +12,7 @@ I enjoy building software that solves real-world problems through thoughtful arc
 
 **Full-Stack Software Engineer**
 
-Lead the development of **SageStep**, an AI-powered planning platform that helps users transform long-term goals into structured daily action plans. I architect, develop, deploy, and continuously improve the platform while building features across the entire application stack.
+Develop software solutions for SageStep, an intelligent planning platform, by designing and implementing scalable frontend, backend, database, and AI-powered features that improve planning, scheduling, and the overall user experience.
 
 **Highlights**
 
@@ -29,7 +29,7 @@ Lead the development of **SageStep**, an AI-powered planning platform that helps
 
 **Full-Stack Software Engineer**
 
-Contribute to the development of a modern social media platform by building full-stack features, REST APIs, and reusable components while collaborating through Agile sprint planning, Git workflows, and peer code reviews.
+Develop app features for LetSocial, a modern social platform, creating scalable user experiences, backend services, REST APIs, and reusable components while working within an Agile development team.
 
 **Tech:** React • TypeScript • Express • PostgreSQL
 
